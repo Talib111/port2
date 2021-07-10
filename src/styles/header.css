@@ -1,0 +1,22 @@
+.header{
+    height: 50px;
+    width: 100vw;
+    display: flex;
+    background-color: white;
+    color: black;
+}
+.header div{
+    flex: 1;
+    padding: 10px;
+}
+.header_logo_cotainer{
+}
+.header_nav_link_container{
+    display: flex;
+    
+}
+.header_nav_link_container div{
+    flex: 1;
+    flex-direction: row;
+    padding-right: 100px;
+}
